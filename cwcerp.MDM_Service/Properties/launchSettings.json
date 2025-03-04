@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "cwcerp.MDM_Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50183;http://localhost:50184"
+    }
+  }
+}
